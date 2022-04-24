@@ -15,3 +15,7 @@ The Book Search Engine uses the MERN stack and with a react front end, MongoDB d
 - [Screenshots](#screenshots)
 - [Questions](#questions)
 - [Credits](#credits)
+
+## Installation
+
+Make sure you have MongoDB installed on your machine (if you dont, follow the instructions on the MongoDB Website). Clone the repo. Install the dependencies with npm i. Run [npm start] to run the server.
