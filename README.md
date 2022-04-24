@@ -49,3 +49,8 @@ The project is open source.
 ## Questions
 
 if you have any questions feel free to contact me at malcolm2345@outlook.com, or my gitub profile [Github profile](#www.github.com/Malcolm0729)
+
+
+## Credits
+
+Made by Malcolm Hendrix
