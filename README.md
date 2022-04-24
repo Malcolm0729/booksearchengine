@@ -12,3 +12,4 @@ The Book Search Engine uses the MERN stack and with a react front end, MongoDB d
 - [Tests](#tests)
 - [License](#license)
 - [Contribution](#contribution)
+- [Screenshots](#screenshots)
