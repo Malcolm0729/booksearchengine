@@ -29,3 +29,7 @@ Make sure you have MongoDB installed on your machine (if you dont, follow the in
 ## Tests
 
 This application currently has no tests.
+
+## License
+
+This application has a MIT License
