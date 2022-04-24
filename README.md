@@ -25,3 +25,7 @@ Make sure you have MongoDB installed on your machine (if you dont, follow the in
 - JavaScript
 - HTML/CSS
 - MERN STACK
+
+## Tests
+
+This application currently has no tests.
