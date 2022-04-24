@@ -33,3 +33,7 @@ This application currently has no tests.
 ## License
 
 This application has a MIT License
+
+## Contributing 
+
+The project is open source.
